@@ -1,0 +1,14 @@
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\bin\Debug\BTL_NguyenDangPhuong_2051063453.exe.config
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\bin\Debug\BTL_NguyenDangPhuong_2051063453.exe
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\bin\Debug\BTL_NguyenDangPhuong_2051063453.pdb
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.FormQLNXB.resources
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.FormQLTG.resources
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.FormQLTL.resources
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.FormQLKH.resources
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.QLCHS.resources
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.FormGioHang.resources
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.Properties.Resources.resources
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.csproj.GenerateResource.Cache
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_NguyenDangPhuong_2051063453.exe
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_NguyenDangPhuong_2051063453.pdb
+F:\HKVI2024\LTWindows\codeWindows\BTL_Nhom6_QLCHS_LTW\obj\Debug\BTL_LTW_QLCHS_G6.csprojResolveAssemblyReference.cache
